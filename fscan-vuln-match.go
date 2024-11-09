@@ -72,4 +72,5 @@ func main() {
 		time.Sleep(time.Second * 1)
 		return
 	}
+		log.Printf("debug:diff 对比主线差异")
 }
